@@ -9,7 +9,7 @@ Projeto desenvolvido para fins de **estudo e prática com Spring**, aplicando bo
 ## 🚀 Tecnologias Utilizadas
 
 ![Java](https://img.shields.io/badge/Java-17+-orange?style=for-the-badge&logo=openjdk)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-brightgreen?style=for-the-badge&logo=springboot)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-4.x-brightgreen?style=for-the-badge&logo=springboot)
 ![Spring Web](https://img.shields.io/badge/Spring%20Web-REST-green?style=for-the-badge&logo=spring)
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-Auth-success?style=for-the-badge&logo=springsecurity)
 ![JWT](https://img.shields.io/badge/JWT-Security-black?style=for-the-badge&logo=jsonwebtokens)
